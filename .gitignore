@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Modèles (trop lourds pour git)
+*.h5
+*.pkl
+
+# MLflow
+mlruns/
+
+# Données
+*.csv
+
+# OS
+.DS_Store

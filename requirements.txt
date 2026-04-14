@@ -1,0 +1,10 @@
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+fastapi
+uvicorn
+sqlalchemy
+mlflow
+python-dotenv
